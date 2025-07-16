@@ -1,0 +1,10 @@
+[general]
+name=MS Buildings & Roads Downloader
+author=Your Name
+email=your.email@example.com
+qgisMinimumVersion=3.40
+description=Download Microsoft building footprints and/or roads for a specified area.
+about=This plugin allows users to download Microsoft building footprints and/or roads for a user-specified area and add them as layers in QGIS.
+version=0.1.0
+repository=https://github.com/yourusername/ms_buildings_roads
+category=Vector 

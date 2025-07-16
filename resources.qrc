@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/plugins/ms_buildings_roads">
+    <file>icon.png</file>
+  </qresource>
+</RCC> 
